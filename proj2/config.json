@@ -1,0 +1,20 @@
+{
+  "params":{
+    "local_server":"True",
+    "local_uri":"mysql://root:root@localhost/troubleshooter",
+    "prod_uri":"mysql://root:root@localhost/troubleshooter",
+    "fb_url":"https://www.facebook.com/sheikhrizvan",
+    "tw_url":"https://www.twitter.com/sheikhrizvan",
+    "gh_url":"https://www.github.com",
+    "blog_name":"TroubleShooter",
+    "tab_line":"Everything you need to solve your system issues!",
+    "gmail-user":"sheikhrizvan.test@gmail.com",
+    "gmail-pwd":"Passw0rd@123",
+    "no_of_post":5,
+    "admin_email":"sheikhrizvan",
+    "admin_pwd":"Password",
+    "upload_loc":"C:\\Users\\lenovo\\Desktop\\extras\\Udemy\\Python Practice\\Flask\\youtube class flask\\proj2\\static\\upload"
+
+
+  }
+}
